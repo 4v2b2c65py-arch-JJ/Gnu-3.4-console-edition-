@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vercel.com/schema/project.json",
+  "version": 3,
+  "framework": "nextjs",
+  "buildCommand": "cd games/landing-page && npm run build",
+  "devCommand": "cd games/landing-page && npm run dev",
+  "installCommand": "cd games/landing-page && npm install",
+  "outputDirectory": "games/landing-page/.next",
+  "regions": ["iad1"],
+  "env": {
+    "HF_MODEL_ID": {
+      "target": ["production", "preview", "development"],
+      "sensitivity": "non_secret"
+    },
+    "HF_TOKEN": {
+      "target": ["production", "preview", "development"],
+      "sensitivity": "secret"
+    }
+  }
+}
