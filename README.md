@@ -12,7 +12,7 @@ Game-intended data/model creation workspace: game landing page, asset replicatio
 - `games/materials/` — Unity PBR material base (Built-in + URP shaders)
 
 ## Live Portal
-Vercel: https://leviathan.vercel.app
+Vercel: https://leviathan-bs95il3a8-jjonthelaptop-5497s-projects.vercel.app/
 
 ## License
 MIT

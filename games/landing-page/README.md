@@ -2,7 +2,7 @@
 HoYoverse/Rockstar-inspired cinematic design with AI auto-updates.
 
 ## Live Portal
-🌐 **Vercel:** https://leviathan.vercel.app (deploy via Vercel — see below)
+🌐 **Vercel:** https://leviathan-bs95il3a8-jjonthelaptop-5497s-projects.vercel.app/
 
 ## Quick start
 npm install
