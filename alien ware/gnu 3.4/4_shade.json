@@ -1,0 +1,17 @@
+{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\4.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "a28ef42eea65c7f7dc703fb2ee46a5116fe771d16d0c026c3ea3e0cfb57cb118",
+  "checksum_rule": "auto rule out possibilities and variants"
+}

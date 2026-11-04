@@ -1,0 +1,108 @@
+{
+  "target": "PS4-level Linux kernel porting",
+  "vram_file_support": true,
+  "count": 20,
+  "files": [
+    {
+      "file": "1.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "2.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "3.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "4.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "5.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "6.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "7.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "8.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "9.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "10.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "11.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "12.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "13.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "14.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "15.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "16.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "17.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "18.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "19.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    },
+    {
+      "file": "20.gguf",
+      "length": 0,
+      "vram_mb": 0.0
+    }
+  ],
+  "total_length": 0
+}

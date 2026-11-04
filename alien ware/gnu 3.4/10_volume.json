@@ -1,0 +1,18 @@
+{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "10.gguf",
+  "volume_write_bytes": 1941,
+  "action": "volume_write_interpreted"
+}

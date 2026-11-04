@@ -1,0 +1,7 @@
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "b9ff869d95099969b6333d655435fa54ddfd03edee0f1de525f02047bd5105ee",
+  "rollback": true,
+  "auto": true
+}

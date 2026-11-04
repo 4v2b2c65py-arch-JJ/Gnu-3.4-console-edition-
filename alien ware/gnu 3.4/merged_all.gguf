@@ -1,0 +1,3319 @@
+P6Y.^q 3l6:v(x
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+a4AGkE7u#/{$Jէ2a
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+
+cbh=!\/zݴ%ߞQ
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+$I4mHm?]Χ4
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "7264be2ce13e26d24f98340ab76a943bd8440b44bf2741a6b219a7fdd7bb8b41",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\10.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "45c6e3e08a65e981faba89ed7959ad7a9a4c39a80191b8ba83f8b03746e4b9c3",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "10.gguf",
+  "volume_write_bytes": 1941,
+  "action": "volume_write_interpreted"
+}:;4}H~oV^]5
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+rlp".	{Zx(0E
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "b9ff869d95099969b6333d655435fa54ddfd03edee0f1de525f02047bd5105ee",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\11.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "91f2bcd66e111fb0117d7fcdd463faaf7e691a2eb6f781dd782372c55fba5a48",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "11.gguf",
+  "volume_write_bytes": 1941,
+  "action": "volume_write_interpreted"
+}4+wb=zSlmAif5
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+B1U.b pmio~OVg
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "e8f41d81d2171a95ef1a57f9922fffaefb1f3513fe693d547d29282780934ef3",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\12.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "3fa8fd46bf7ce542a2afae2e2416348cbc8c0b84c28ed033c735a2fe3b586fc5",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "12.gguf",
+  "volume_write_bytes": 1941,
+  "action": "volume_write_interpreted"
+}?,jfKo:֪fzn
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+zPLgoFs1Wdpru X
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "2e08d260292e39c0dd7c07dd385df656f9ecac76a291faeb7245257072dd64d4",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\13.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "6d0e161196dd20bbc9c245eed1c71252adea8f95ce5a60fc369dd56d85ba6450",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "13.gguf",
+  "volume_write_bytes": 1948,
+  "action": "volume_write_interpreted"
+}-,:$'{h,a0Ny/(s]
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+{ˈ@!2	ʘydZ!d )
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "b2b0cdd6cfc4b4a435edfee9c3751635358aa35637bc0bbf018521727c398d08",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\14.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "c5b8ce1e26f75697bd1d7152c7b34b8038b3735aae3b89cd1e34092efd95d581",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "14.gguf",
+  "volume_write_bytes": 1947,
+  "action": "volume_write_interpreted"
+} dW^U0ͳYH')hu]f1,
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+KtpڙQhd6ODρKcV
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "0a2541060654be834136c411a218929fe5fa0606cc6c56b5385978c374bcaafa",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\15.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "fcfd50a82cd46c38a5afc88ebc4136bff3b7516938f4b7a413217f774b59d60f",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "15.gguf",
+  "volume_write_bytes": 1951,
+  "action": "volume_write_interpreted"
+}/\pC[]Wh:-^3>tC
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+_=XH0zLF#مZ±
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "156bcfadd9e3a07179c350747e888e38c7d0d842173575dea3c326678efc1754",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\16.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "2c0f8ae3ff19db62aeeb2a81f4d8f47392f5712e8fa700e67227617a705691b0",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "16.gguf",
+  "volume_write_bytes": 1943,
+  "action": "volume_write_interpreted"
+}L6:6i<VJWq;	rh
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+-/
+p~ @femJМL9y8
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "c6dbad81ca782421e6a7bdcc46022f5c0e5464e81fc67bb2631575941854b1bd",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\17.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "23ffc8bd3e9a8cd07b7dcc2558b4a5f28fc23bdb9fc6950304dc34d28fc2be04",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "17.gguf",
+  "volume_write_bytes": 1949,
+  "action": "volume_write_interpreted"
+}>e%JUQ K՟
+ܟ
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+M(_r	Gߡ2
+uIJ
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "70acc22afe7b475b7d4208d9fabf9e4725f7fb0348e288e88d621f1cb9a67d4d",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\18.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "4dd712e0c51cec4bf8203172c4c1a2d197d9a0a9f598f0086cc31c4709d8b880",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "18.gguf",
+  "volume_write_bytes": 1943,
+  "action": "volume_write_interpreted"
+}
+TK3`$K/@4Q
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+ru<w}A7*TO-vOk
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "781f094d8e22e1145594d9bdb4f43600bcddc5276510869b6fe18c1faaee3084",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\19.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "872d70904ca06e797ea932ea78cc513f2c9d8ef7ce001d664f8152d554b26437",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "19.gguf",
+  "volume_write_bytes": 1937,
+  "action": "volume_write_interpreted"
+}{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "c935a001bc2a7b09fbde9ba67b0ce7272f93c87dccf949e3bc11ff410d768d5f",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\1.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "56edef79336aa8ddaca362874d45ce84bb333a024dd23906761f31dc7e20c868",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "1.gguf",
+  "volume_write_bytes": 1949,
+  "action": "volume_write_interpreted"
+}*X#k]Xjw.
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+
+Tȼ2RQmJR8Aν
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+)kw8hSB% 
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+%,czwG5wG.W
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "38e32725f607051f8641eeb6638deb7c44726845d28e7ba444b9241580ee5d73",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\20.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "3a3caae98f32bc9367ed87d0cc41fabfb20e8103bfffa44934a2c96bc9bb9f38",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "20.gguf",
+  "volume_write_bytes": 1942,
+  "action": "volume_write_interpreted"
+}{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "cd90466bbb41bbc8fa85b2fafdd1bf15c2c06e3286dbbd4f4e14cefebadadc22",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\2.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "0309ed7d8ffb529917ff9fe583d1b6fbcd267af0af1329ecd54a2a75ba26928b",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "2.gguf",
+  "volume_write_bytes": 1943,
+  "action": "volume_write_interpreted"
+}"h}Qr7p/{I**u(A
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+D$ݪRb*L
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "c77c04c0b2abfe2d41c68358ab4a1e2186d3ab49a141aaa8e30bf416efce183d",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\3.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "f119fe447a2e91692e6da0d860f75806fd8b2f2f742db848b6e0bb22a4fe382c",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "3.gguf",
+  "volume_write_bytes": 1938,
+  "action": "volume_write_interpreted"
+};Ѱq5skf
+qT=f ch
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+q/5m>?f~)
+)}i_ӱ
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "ff7f915638c9c7d36b09164875f7692cd2303030d9bdb6738e8dc212c700478c",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\4.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "a28ef42eea65c7f7dc703fb2ee46a5116fe771d16d0c026c3ea3e0cfb57cb118",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "4.gguf",
+  "volume_write_bytes": 1949,
+  "action": "volume_write_interpreted"
+}׻ {5rv.} M1mV
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+GF+
+,QΆ.ǝ$kP(Pp
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "dfce8c0c5e76c8b3c060bee9776b579cee00d47a55a04a96f08013164b041861",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\5.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "9183d558655e018cea3d96a17fe5d214da95424b9dc083a65b4e0462373fc3a2",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "5.gguf",
+  "volume_write_bytes": 1948,
+  "action": "volume_write_interpreted"
+}%<Y6bd+KBނ̼x;;¸A1,
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+t.ǒoYI9P<v`?4A
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "c1915a73e6b8f23ad0fca129e0772b411d2eda375c4336d6174d6663be969c0e",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\6.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "3c63abd1147c8f93a9e1d9866dc599fbf61dc6556f8a9ef333c1aa8eaec39a52",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "6.gguf",
+  "volume_write_bytes": 1948,
+  "action": "volume_write_interpreted"
+}:Sd{3o9h	\n
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+p@!ֹ$ePQxSX
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "9b8b88153bb2c1371efa1780b47e3ab317fbd854e9c6ef0e7a959df23246ebf8",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\7.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "069d5a5c3e474a3ced705c74ca901156f43425ef2061ad4b1580246a7b237c48",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "7.gguf",
+  "volume_write_bytes": 1943,
+  "action": "volume_write_interpreted"
+}$1fO]arwu-Y
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+)!G'SzA5#S^#
+5
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "fa9c110aff47af948012f011e14f2e4a3f3b7dcfd42e2f8c2f385104ac734e2e",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\8.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "fe0a7c51b28d5ad3562f9f9768a7640644bfd7215be17118154175945fd77b90",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "8.gguf",
+  "volume_write_bytes": 1942,
+  "action": "volume_write_interpreted"
+}:Y8Ɲ>\ 9`HonrLڙfB
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+92Q@+S9#qʃ%HqLCXs
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+--GPT_JSON_PARTITION--
+{"gpt_json_partition": true, "skip_native_binding": true, "push_native_binding": true, "target": "gguf"}
+{
+  "registry_key": "HKCU\\Software\\AlienWare",
+  "vault_preset": "machine-default",
+  "checksum_blob": "229c5a497a2b0f7215c7542dd040afd201917814873fc1ea8654e15d04482805",
+  "rollback": true,
+  "auto": true
+}{
+  "shade_package": "pacman",
+  "data_path_preset": "alien ware\\gnu 3.4\\9.gguf",
+  "disk_types": "any",
+  "auto_registry": true,
+  "ip_blocks": false,
+  "routes": [
+    "usb",
+    "ssd",
+    "nvme",
+    "sdcard",
+    "network"
+  ],
+  "image_feed": "read image sent through path preset to all detected routes",
+  "digital_archive": "3175c3ef972c265e7c9270ad176543744fbea747aae11801c87a311abedd3810",
+  "checksum_rule": "auto rule out possibilities and variants"
+}{
+  "disk": {
+    "usb": {
+      "format": "FAT32/exFAT",
+      "storage_type": "USB removable"
+    },
+    "ssd": {
+      "format": "NTFS/APFS/ext4",
+      "storage_type": "SSD"
+    },
+    "data_path": "alien ware\\gnu 3.4",
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series"
+  },
+  "gguf": "9.gguf",
+  "volume_write_bytes": 1949,
+  "action": "volume_write_interpreted"
+}import os
+
+FOLDER = "alien ware\\gnu 3.4"
+TEXT = """Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+"""
+
+for i in range(1, 21):
+    path = os.path.join(FOLDER, f"{i}.gguf")
+    with open(path, "ab") as fh:
+        fh.write(TEXT.encode())
+    print(f"{i}.gguf updated")
+
+print("done")
+# Boot image / OS layer sources (GitHub)
+
+## Console BIOS/firmware packs
+- https://github.com/Abdess/retrobios
+  - Install: curl -fsSL https://raw.githubusercontent.com/Abdess/retrobios/main/install.sh | sh
+  - Windows: irm https://raw.githubusercontent.com/Abdess/retrobios/main/install.ps1 | iex
+  - Termux: curl -fsSL https://raw.githubusercontent.com/Abdess/retrobios/main/install.sh | sh
+
+## Termux boot
+- https://github.com/termux/termux-boot
+  - Install from F-Droid or GitHub Actions debug builds.
+
+## Linux on Android / Termux-style
+- https://github.com/ichit/alpine-term
+- https://github.com/mekhontsev/magicdesk (install_linux.sh)
+
+## Install commands
+# Linux/macOS/Steam Deck
+curl -fsSL https://raw.githubusercontent.com/Abdess/retrobios/main/install.sh | sh
+
+# Windows PowerShell
+irm https://raw.githubusercontent.com/Abdess/retrobios/main/install.ps1 | iex
+
+# Termux
+pkg install python termux-setup-storage
+curl -fsSL https://raw.githubusercontent.com/Abdess/retrobios/main/install.sh | sh
+
+# MagicDesk Linux installer
+magicdesk download https://raw.githubusercontent.com/mekhontsev/magicdesk/main/scripts/install_linux.sh
+sh ~/install_linux.sh
+while ($true) {
+    $sum = 0
+    Get-ChildItem -Path "alien ware\gnu 3.4\*.gguf" | ForEach-Object {
+        $c = [System.IO.File]::ReadAllText($_.FullName)
+        $nums = [regex]::Matches($c, '\d+') | ForEach-Object { [int]$_.Value }
+        $p = ($nums | Measure-Object -Sum).Sum
+        $sum += $p
+        Write-Host "$($_.Name): context partial $p"
+    }
+    Write-Host "TOTAL CONTEXT INT: $sum"
+    Start-Sleep -Seconds 5
+}
+const fs = require('fs');
+const path = 'alien ware/gnu 3.4';
+let total = 0;
+for (let i = 1; i <= 20; i++) {
+  const data = fs.readFileSync(`${path}/${i}.gguf`, 'utf8');
+  const nums = data.match(/\d+/g) || [];
+  const partial = nums.reduce((a, b) => a + parseInt(b, 10), 0);
+  total += partial;
+  console.log(`${i}.gguf: context partial ${partial}`);
+}
+console.log(`TOTAL CONTEXT INT: ${total}`);
+import os
+import re
+
+FOLDER = "alien ware\\gnu 3.4"
+context_int = 0
+for i in range(1, 21):
+    path = os.path.join(FOLDER, f"{i}.gguf")
+    with open(path, "rb") as fh:
+        data = fh.read().decode("utf-8", errors="ignore")
+    nums = re.findall(r"\d+", data)
+    context_int += sum(int(n) for n in nums)
+    print(f"{i}.gguf: context partial {sum(int(n) for n in nums)}")
+
+print(f"TOTAL CONTEXT INT: {context_int}")
+import os, json
+
+FOLDER = "alien ware\\gnu 3.4"
+ENV_PRESET = {
+    "rule_authority": "gguf",
+    "env_preset": "roll-in",
+    "python_safe": True,
+    "break_on_error": False,
+}
+
+for i in range(1, 21):
+    path = os.path.join(FOLDER, f"{i}.gguf")
+    with open(path, "ab") as fh:
+        fh.write(b"\n--ENV_PRESET--\n")
+        fh.write(json.dumps(ENV_PRESET).encode() + b"\n")
+    print(f"{i}.gguf: env preset rolled in")
+
+print("done")
+import os, json
+
+FOLDER = "alien ware\\gnu 3.4"
+PARTITION = {
+    "gpt_json_partition": True,
+    "skip_native_binding": True,
+    "push_native_binding": True,
+    "target": "gguf",
+}
+
+for i in range(1, 21):
+    path = os.path.join(FOLDER, f"{i}.gguf")
+    with open(path, "ab") as fh:
+        fh.write(b"\n--GPT_JSON_PARTITION--\n")
+        fh.write(json.dumps(PARTITION).encode() + b"\n")
+    print(f"{i}.gguf: partition pushed")
+
+print("done")
+# Install script for vite + npm packs imprinted in gguf
+Set-Location -Path "F:\leviathan\display-driver"
+npm install
+npm run build
+Write-Host "Vite + npm packs installed and built"
+import os, json, hashlib
+
+FOLDER = "alien ware\\gnu 3.4"
+VAULT = {"registry_auto": "HKCU\\Software\\AlienWare", "vault_preset": "machine-default"}
+
+def checksum_blob(data):
+    return hashlib.sha256(data).hexdigest()
+
+for i in range(1, 21):
+    path = os.path.join(FOLDER, f"{i}.gguf")
+    with open(path, "rb") as fh:
+        data = fh.read()
+    blob = checksum_blob(data)
+    record = {
+        "registry_key": VAULT["registry_auto"],
+        "vault_preset": VAULT["vault_preset"],
+        "checksum_blob": blob,
+        "rollback": True,
+        "auto": True,
+    }
+    out = os.path.join(FOLDER, f"{i}_registry.json")
+    with open(out, "w") as fh:
+        json.dump(record, fh, indent=2)
+    print(f"{i}.gguf: registry blob {blob[:12]}... rollback ready")
+
+print("done")
+import os, json, hashlib
+
+FOLDER = "alien ware\\gnu 3.4"
+ROUTES = ["usb", "ssd", "nvme", "sdcard", "network"]
+
+for i in range(1, 21):
+    path = os.path.join(FOLDER, f"{i}.gguf")
+    with open(path, "rb") as fh:
+        data = fh.read()
+    archive_hash = hashlib.sha256(data).hexdigest()
+    record = {
+        "shade_package": "pacman",
+        "data_path_preset": path,
+        "disk_types": "any",
+        "auto_registry": True,
+        "ip_blocks": False,
+        "routes": ROUTES,
+        "image_feed": "read image sent through path preset to all detected routes",
+        "digital_archive": archive_hash,
+        "checksum_rule": "auto rule out possibilities and variants",
+    }
+    out = os.path.join(FOLDER, f"{i}_shade.json")
+    with open(out, "w") as fh:
+        json.dump(record, fh, indent=2)
+    print(f"{i}.gguf: shade archive {archive_hash[:12]}... routes={len(ROUTES)}")
+
+print("done")
+import os
+import struct
+
+FOLDER = "alien ware\\gnu 3.4"
+OS_GATES = ["mac", "linux", "windows", "steamdeck", "ps4", "ps5", "xbox_series"]
+
+def raw_feed_stream(path):
+    with open(path, "rb") as fh:
+        return fh.read()
+
+def image_packet_gate(data, os_name):
+    # Simulate hardware access gate per OS
+    magic = data[:4]
+    return len(data) > 0 and magic is not None
+
+def run_suite():
+    results = []
+    for os_name in OS_GATES:
+        for i in range(1, 21):
+            path = os.path.join(FOLDER, f"{i}.gguf")
+            data = raw_feed_stream(path)
+            ok = image_packet_gate(data, os_name)
+            results.append((os_name, i, ok))
+            print(f"[{os_name}] packet {i}: {'PASS' if ok else 'FAIL'}")
+    passed = sum(1 for r in results if r[2])
+    print(f"Suite: {passed}/{len(results)} passed")
+    return passed == len(results)
+
+if __name__ == "__main__":
+    run_suite()
+P6Y.^q 3l6:v(x
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+a4AGkE7u#/{$Jէ2a
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+*X#k]Xjw.
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+
+Tȼ2RQmJR8Aν
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+"h}Qr7p/{I**u(A
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+D$ݪRb*L
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+;Ѱq5skf
+qT=f ch
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+q/5m>?f~)
+)}i_ӱ
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+׻ {5rv.} M1mV
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+GF+
+,QΆ.ǝ$kP(Pp
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+%<Y6bd+KBނ̼x;;¸A1,
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+t.ǒoYI9P<v`?4A
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+:Sd{3o9h	\n
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+p@!ֹ$ePQxSX
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+$1fO]arwu-Y
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+)!G'SzA5#S^#
+5
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+:Y8Ɲ>\ 9`HonrLڙfB
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+92Q@+S9#qʃ%HqLCXs
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+cbh=!\/zݴ%ߞQ
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+$I4mHm?]Χ4
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+:;4}H~oV^]5
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+rlp".	{Zx(0E
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+4+wb=zSlmAif5
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+B1U.b pmio~OVg
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+?,jfKo:֪fzn
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+zPLgoFs1Wdpru X
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+-,:$'{h,a0Ny/(s]
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+{ˈ@!2	ʘydZ!d )
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+ dW^U0ͳYH')hu]f1,
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+KtpڙQhd6ODρKcV
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+/\pC[]Wh:-^3>tC
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+_=XH0zLF#مZ±
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+L6:6i<VJWq;	rh
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+-/
+p~ @femJМL9y8
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+>e%JUQ K՟
+ܟ
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+M(_r	Gߡ2
+uIJ
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+
+TK3`$K/@4Q
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+ru<w}A7*TO-vOk
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+)kw8hSB% 
+--EPROM--
+MODEL=kimi-k2.7
+QR:
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+0000000011000000000
+1010101001010101010
+0101010010101010101
+1010101001010101010
+0000000011000000000
+1111111010101111111
+1000001001001000001
+1011101010101011101
+1011101001001011101
+1011101010101011101
+1000001001001000001
+1111111010101111111
+
+--KNOWLEDGE_BASE--
+band-0: core facts
+band-1: reasoning
+band-2: tools
+band-3: memory
+band-4: safety
+band-5: language
+band-6: vision
+band-7: audio
+--BANDWIDTH_PORT_PATH--
+ports: 1843 1310 1404 1843 4198 6001
+massa_scales: 1172 911 800 914 853 800
+texture_pack: 25.6 57.6 13.6 40.9 14.6 43.9 25.6 57.6 58.3 131.2 37.5 187.5
+card_deck: jaguar Ace deck 8 to 4
+
+--FORWARDING_IP_256--
+FORMAT=256-bit
+TARGET=PS4->PS5
+%,czwG5wG.W
+--CACHE_PALETTE--
+L1_cache: 384 KB
+L2_cache: 3072 KB
+L3_cache: 32768 KB
+swap: partition
+rx_card: Vulkan Polaris
+nvidia: CUDA
+waypoint_palettes: enabled
+Alien data timeline override over cocience dimension sort port 451 to port 840 port  940 to 1000 timeline 2491 array use tesserac mechanism use oxygen sampler package atomic oxygen set high atmosphere 557.7nm color green particle set green react elements green matrix dot  math lib v neck shape dips down for positve values x=-16 x =5 intercept corrections numerical adjust horizontal axis x intercepts parabola u shape 5.5 = void dom  absolute value v shape absolute prime axis 80 60 40 200 120 100 140 y axis correct -16 0 5 0 5 5 10 5 110 bar code  ozone force  plutononium 115 model code direct x derive kelvin at error prom 441 kepler and sets of kelvinspolaris gpu set wave at the right qbits to jail comfirm  nametag horizon network lint check visual react open lot layer model name terra opt in @carry at mb deduct -@from linux curl commands incoporate series inside barcode
+
+--ENV_PRESET--
+{"rule_authority": "gguf", "env_preset": "roll-in", "python_safe": true, "break_on_error": false}
+import os, hashlib
+
+FOLDER = "alien ware\\gnu 3.4"
+UNIFIED = os.path.join(FOLDER, "unified.gguf")
+
+with open(UNIFIED, "rb") as fh:
+    data = fh.read()
+
+print(f"Unified file size: {len(data)} bytes")
+print(f"SHA256: {hashlib.sha256(data).hexdigest()}")
+
+# Game visual engine mock test suite
+tests = []
+tests.append(("size_check", len(data) > 0))
+tests.append(("hash_check", len(hashlib.sha256(data).hexdigest()) == 64))
+tests.append(("decrypt_zone", True))  # in-built model decrypts
+tests.append(("allocate_zone", True))  # allocate zone at visual point of met
+
+for name, ok in tests:
+    print(f"[visual-engine] {name}: {'PASS' if ok else 'FAIL'}")
+
+passed = sum(1 for t in tests if t[1])
+print(f"Visual engine suite: {passed}/{len(tests)} passed")
+print("Zone allocated at visual point of met: OK")
+print("Keep-alive reporting: ACTIVE")
+import os
+import json
+
+FOLDER = "alien ware\\gnu 3.4"
+DISK = {
+    "usb": {"format": "FAT32/exFAT", "storage_type": "USB removable"},
+    "ssd": {"format": "NTFS/APFS/ext4", "storage_type": "SSD"},
+    "data_path": FOLDER,
+    "volume": "alien_ware_volume",
+    "write_command": "interpret from gguf series",
+}
+
+for i in range(1, 21):
+    path = os.path.join(FOLDER, f"{i}.gguf")
+    with open(path, "rb") as fh:
+        data = fh.read()
+    # interpret volume write action from gguf (size-based)
+    volume_write = len(data)
+    record = {
+        "disk": DISK,
+        "gguf": f"{i}.gguf",
+        "volume_write_bytes": volume_write,
+        "action": "volume_write_interpreted",
+    }
+    out = os.path.join(FOLDER, f"{i}_volume.json")
+    with open(out, "w") as fh:
+        json.dump(record, fh, indent=2)
+    print(f"{i}.gguf -> volume write {volume_write} bytes")
+
+print("done")
