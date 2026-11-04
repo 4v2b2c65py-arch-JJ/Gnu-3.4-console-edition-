@@ -8,13 +8,6 @@
   "outputDirectory": ".next",
   "regions": ["iad1"],
   "env": {
-    "HF_MODEL_ID": {
-      "target": ["production", "preview", "development"],
-      "sensitivity": "non_secret"
-    },
-    "HF_TOKEN": {
-      "target": ["production", "preview", "development"],
-      "sensitivity": "secret"
-    }
+    "HF_MODEL_ID": "meta-llama/Llama-3.1-8B-Instruct"
   }
 }
