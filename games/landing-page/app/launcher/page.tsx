@@ -1,26 +1,72 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { motion } from "framer-motion"
+import { useRouter } from "next/navigation"
 
 const PLATFORMS = [
   { name: "Windows", icon: "🪟", file: "LeviathanSetup.exe", size: "2.4 GB", recommended: true },
-  { name: "macOS", icon: "🍎", file: "LeviathanInstaller.dmg", size: "2.1 GB", recommended: false },
 ]
 
 export default function LauncherPage() {
-  const [selected, setSelected] = useState(PLATFORMS[0])
+  const router = useRouter()
+  const [user, setUser] = useState<{ id: string; email: string } | null>(null)
   const [downloading, setDownloading] = useState(false)
   const [progress, setProgress] = useState(0)
+  const [checkedSession, setCheckedSession] = useState(false)
+
+  useEffect(() => {
+    let cancelled = false
+    async function checkSession() {
+      try {
+        const res = await fetch("/api/auth/session", { credentials: "include" })
+        if (res.ok) {
+          const data = await res.json()
+          if (data.authenticated) {
+            setUser(data.user)
+          } else {
+            router.replace("/login")
+          }
+        } else {
+          router.replace("/login")
+        }
+      } catch {
+        router.replace("/login")
+      } finally {
+        if (!cancelled) setCheckedSession(true)
+      }
+    }
+    checkSession()
+    return () => { cancelled = true }
+  }, [router])
 
   const handleDownload = () => {
     setDownloading(true)
+    // Trigger real file download from the server (requires auth cookie)
+    window.location.href = "/api/download/launcher"
+
     let p = 0
     const iv = setInterval(() => {
-      p += Math.random() * 12
-      if (p >= 100) { p = 100; clearInterval(iv); setDownloading(false) }
+      p += Math.random() * 8 + 3
+      if (p >= 100) {
+        p = 100
+        setDownloading(false)
+        clearInterval(iv)
+        return
+      }
       setProgress(p)
     }, 200)
+  }
+
+  if (!checkedSession) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-black">
+        <div className="glass-panel p-10 rounded-[2rem] text-center">
+          <div className="text-levi-accent font-black text-sm uppercase tracking-wider mb-2">Authenticating</div>
+          <div className="text-white font-black">Verifying your session…</div>
+        </div>
+      </div>
+    )
   }
 
   return (
@@ -30,7 +76,6 @@ export default function LauncherPage() {
         <div className="scanline-overlay"></div>
       </div>
 
-      {/* Navbar */}
       <nav className="fixed inset-x-0 top-0 z-50 bg-black/40 backdrop-blur border-b border-white/10 px-6 h-16 flex items-center justify-between">
         <div className="flex items-center gap-2.5">
           <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-levi-accent to-pink-600 flex items-center justify-center text-[10px] font-black">
@@ -39,9 +84,28 @@ export default function LauncherPage() {
           <span className="font-heading font-black text-sm tracking-tight text-white">LEVIATHAN</span>
         </div>
         <div className="hidden md:flex items-center gap-8 text-xs font-semibold uppercase tracking-widest text-levi-textMuted">
-          <a href="#" className="hover:text-white transition-colors">Home</a>
-          <a href="/signup" className="hover:text-white transition-colors">Create Account</a>
-          <a href="/login" className="hover:text-white transition-colors">Sign In</a>
+          <a href="/" className="hover:text-white transition-colors">Home</a>
+          {user && (
+            <>
+              <a href="#" className="hover:text-white transition-colors">Account</a>
+              <button
+                onClick={() => {
+                  fetch("/api/auth/logout", { method: "POST", credentials: "include" }).then(() =>
+                    router.replace("/login")
+                  )
+                }}
+                className="hover:text-levi-accent transition-colors"
+              >
+                Sign out
+              </button>
+            </>
+          )}
+          {!user && (
+            <>
+              <a href="/signup" className="hover:text-white transition-colors">Create Account</a>
+              <a href="/login" className="hover:text-white transition-colors">Sign In</a>
+            </>
+          )}
         </div>
         <a href="/" className="px-5 py-2 rounded-xl border border-white/10 text-white text-xs font-black hover:bg-white/10 transition">
           Back to Home
@@ -55,7 +119,7 @@ export default function LauncherPage() {
             Download the Launcher
           </h1>
           <p className="text-levi-textMuted text-lg max-w-2xl mx-auto leading-relaxed">
-            Your gateway to the always-on AI world. Install once, enter anywhere.
+            Signed in as <span className="text-white font-black">{user?.email}</span>. Your gateway to the always-on AI world.
           </p>
         </div>
 
@@ -63,8 +127,7 @@ export default function LauncherPage() {
           {PLATFORMS.map((p) => (
             <button
               key={p.name}
-              onClick={() => setSelected(p)}
-              className={`glass-panel p-8 rounded-[2rem] cursor-pointer transition-all group ${selected.name === p.name ? "border-levi-accent/80 bg-white/5 shadow-[0_0_30px_rgba(139,92,246,0.15)]" : "border-transparent hover:border-white/10 hover:bg-white/5"}`}
+              className="glass-panel p-8 rounded-[2rem] cursor-pointer transition-all group border-levi-accent/80 bg-white/5 shadow-[0_0_30px_rgba(139,92,246,0.15)]"
             >
               <div className="flex items-center gap-4 mb-6">
                 <span className="text-3xl">{p.icon}</span>
@@ -92,7 +155,7 @@ export default function LauncherPage() {
           className="glass-panel p-10 rounded-[2rem] max-w-md mx-auto"
         >
           <div className="flex items-center justify-between mb-6">
-            <h3 className="font-black text-white text-lg">Downloading {selected.file}</h3>
+            <h3 className="font-black text-white text-lg">Downloading LeviathanSetup.exe</h3>
             <span className="text-levi-textMuted text-xs">{progress.toFixed(0)}%</span>
           </div>
           <div className="w-full bg-white/5 rounded-full h-3 mb-6 overflow-hidden">
