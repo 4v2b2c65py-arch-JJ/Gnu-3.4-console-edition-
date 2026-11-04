@@ -1,6 +1,6 @@
 {
   "$schema": "https://vercel.com/schema/project.json",
-  "version": 3,
+  "version": 2,
   "framework": "nextjs",
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
